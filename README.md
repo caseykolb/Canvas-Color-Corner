@@ -1,2 +1,1 @@
-# Canvas-Color-Corner
-Intelligent color analysis of famous artwork
+Uses the Artsy API to analyze the color palette or artists over time. 
